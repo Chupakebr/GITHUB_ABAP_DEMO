@@ -1,0 +1,32 @@
+[
+ {
+  "table":"ZGCTS",
+  "nametab":
+  [
+   {
+    "NAME":"MANDT",
+    "KEY":"X",
+    "TYPE":"C",
+    "LENGTH":3,
+    "DECIMALS":-1
+   },
+   {
+    "NAME":"UNAME",
+    "KEY":"X",
+    "TYPE":"C",
+    "LENGTH":12,
+    "DECIMALS":-1
+   }
+  ],
+  "properties":
+  [
+   {
+    "CLIENTDEPENDENCY":"YES",
+    "DELIVERYCLASS":"C",
+    "TABART":"APPL0",
+    "TABFORM":"T",
+    "REFNAME":"-"
+   }
+  ]
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "table":"ZGCTS",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"100"
+     },
+     {
+      "key":"UNAME",
+      "value":"RODIONOVR"
+     }
+    ],
+    "hash":"+3JLKREPgXR6T2Ffs+0IZyH5iRM="
+   }
+  ]
+ }
+]
