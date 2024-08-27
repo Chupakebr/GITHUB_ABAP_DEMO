@@ -15,6 +15,6 @@ CLASS Z_HELLO_WORLD IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
-    out->write('Hello ABAP in Cloud!').
+    out->write('Hello ABAP in Cloud').
   ENDMETHOD.
 ENDCLASS.
